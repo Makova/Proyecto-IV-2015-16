@@ -1,0 +1,1 @@
+Crear receta para instalar Debian Jessie en portátiles de la Oficina Software Libre.
