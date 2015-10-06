@@ -1,7 +1,7 @@
 # Proyecto-IV-2015-16
 ### Proyecto final para el curso de IV 2015/16
 
-[![Build Status](https://travis-ci.org/Makova/Proyecto-IV-2015-16.svg)]
+[![Build Status](https://travis-ci.org/Makova/Proyecto-IV-2015-16.svg)](https://travis-ci.org/Makova/Proyecto-IV-2015-16/builds)
 
 Utilizando [Travis](https://travis-ci.org/) para trabajar con integración continua.
 
